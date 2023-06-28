@@ -1,7 +1,3 @@
-import { taskFirst, taskNext } from './0-constants.js';
-
-console.log(`${taskFirst()} ${taskNext()}`);
-
 export function taskFirst() {
   const task = 'I prefer const when I can.';
   return task;
