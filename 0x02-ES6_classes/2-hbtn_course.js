@@ -66,10 +66,3 @@ export default class HolbertonCourse {
     this._students = value;
   }
 }
-
-// Example usage
-const course = new HolbertonCourse('Computer Science', 6, ['Alice', 'Bob', 'Charlie']);
-console.log(course.name);      // Output: Computer Science
-console.log(course.length);    // Output: 6
-console.log(course.students);  // Output: ['Alice', 'Bob', 'Charlie']
-
