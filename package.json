@@ -1,0 +1,25 @@
+{
+  "name": "alx-backend-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^29.5.0",
+    "webpack": "^5.88.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Jerethink/alx-backend-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jerethink/alx-backend-javascript/issues"
+  },
+  "homepage": "https://github.com/Jerethink/alx-backend-javascript#readme"
+}
