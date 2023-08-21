@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "jest": "^29.5.0",
+    "package.json": "^2.0.1",
     "webpack": "^5.88.1"
   },
   "devDependencies": {},
